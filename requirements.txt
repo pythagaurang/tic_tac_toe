@@ -1,0 +1,6 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+python=3.8.5=h7579374_1
+qtawesome=1.0.1=py_0
+qtpy=1.9.0=py_0
