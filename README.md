@@ -8,4 +8,16 @@ To run the program, install the requirements and run [ttt_2player.py](./ttt_2pla
 Here's a demo of it on [Imgur](https://i.imgur.com/UkYjKYm.mp4).
 
 
-Licensing wise, you can use it for anything other than submitting this as the 3rd Exp of IA for this sem. Pls don't.
+Also you'll have to give credit to me if you wanna submit it lol cause I licensed it under:
+
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
